@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database file
+history.db
+
+# macOS files
+.DS_Store
+
+# Environment variables (if any)
+.env
+
+# VS Code settings (optional)
+.vscode/
+fake_news_dataset.csv/
